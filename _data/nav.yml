@@ -1,4 +1,4 @@
 main:
     - { url: '/', text: 'Blog' }
-    - { url: '/about', text: 'About' }
+    - { url: 'https://www.linkedin.com/in/boris-zaikin/', text: 'About' }
     - { url: 'https://github.com/Boriszn', text: 'GitHub' }
