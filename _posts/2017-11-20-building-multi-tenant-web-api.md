@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'Using swagger/swashbuckle .net core operation filters to enable API testing'
+title: 'Building Multi-tenant Web API using dot net core and best practices (Tutorial)'
 date: 2017-11-20 15:26:34
 categories: blog development
 tags: C#, Multi-Tenant architecure, UnitOfWork, Repository
