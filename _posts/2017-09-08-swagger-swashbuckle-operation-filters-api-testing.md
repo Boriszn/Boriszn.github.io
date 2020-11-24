@@ -11,7 +11,7 @@ The problem arises in solutions which contains identity servers based on OAuth2 
 
 #### Solution
 
-One of the option to enable API testing ("Try it out" button) is using swagger operation filter. In example below was created operation filter which includes Bearer authentication token field to HTTP header of each API calls.
+One of the option to enable API testing ("Try it out" button) is using swagger operation filter. In example below was created operation filter which includes Bearer authentication token field to HTTP header of each API calls..
 
 [Complete article can be found here](https://boris-zaikin.blogspot.de/2017/09/using-swaggerswashbuckle-net-core.html "Complete article can be found here")
 
